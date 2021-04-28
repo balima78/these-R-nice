@@ -1,9 +1,7 @@
 # these-R-nice
 Compilação de *packages* R que vou encontrando e não quero perder.
 
-:writing\_hand: Autor
-
-Bruno A Lima
+:writing\_hand: Autor: Bruno A Lima
 ----------------------
 
 As minhas principais fontes são as *newsletters* da [Business Science University](https://university.business-science.io/), os *e-mails* de [R weekly](https://rweekly.org/), o *blog* [R-bloggers](https://www.r-bloggers.com/) e o *site* [Code Learning](https://www.222222.best/).
@@ -58,6 +56,7 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 
 :book: Livros e tutoriais
+-------------------------
 
 - [R books](https://github.com/RomanTsegelskyi/rbooks)
 - [awesome-r-learning-resources](https://github.com/iamericfletcher/awesome-r-learning-resources#readme)
