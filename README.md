@@ -2,7 +2,7 @@
 Compilação de *packages* R que vou encontrando e não quero perder.
 
 :writing\_hand: Autor
-----------------------
+
 Bruno A Lima
 ----------------------
 
@@ -57,7 +57,7 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 - [Mastering Shiny](https://mastering-shiny.org/)
 
 
-### Livros e tutoriais 
+:book: Livros e tutoriais
 
 - [R books](https://github.com/RomanTsegelskyi/rbooks)
 - [awesome-r-learning-resources](https://github.com/iamericfletcher/awesome-r-learning-resources#readme)
