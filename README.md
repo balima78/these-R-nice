@@ -8,6 +8,10 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 ### Profiling (EDA) :eyes:
 
+- [naniar](https://github.com/njtierney/naniar) - {naniar} provides principled, tidy ways to summarise, visualise, and manipulate missing data with minimal deviations from the workflows in ggplot2 and tidy data.
+
+- []()
+
 ### Bases de dados :bank:
 
 - [CRAN Task View: Databases with R](https://github.com/terrytangyuan/ctv-databases)
@@ -57,6 +61,10 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 ### Time series :hourglass:
 
 - [CRAN Task View: Time Series Analysis](https://github.com/robjhyndman/ctv-TimeSeries)
+
+- [fable](http://fable.tidyverts.org/) - The R package {fable} provides a collection of commonly used univariate and multivariate time series forecasting models including exponential smoothing via state space models and automatic ARIMA modelling. 
+
+- [tsibble](https://tsibble.tidyverts.org/) - The {tsibble} package provides a data infrastructure for tidy temporal data with wrangling tools.
 
 ### Shiny :iphone:
 
