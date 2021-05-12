@@ -10,7 +10,7 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 - [naniar](https://github.com/njtierney/naniar) - {naniar} provides principled, tidy ways to summarise, visualise, and manipulate missing data with minimal deviations from the workflows in ggplot2 and tidy data.
 
-- []()
+- [janitor](https://github.com/sfirke/janitor) - {janitor} has simple functions for examining and cleaning dirty data.[Exemplo do seu uso](https://garthtarr.github.io/meatR/janitor.html)
 
 ### Bases de dados :bank:
 
@@ -27,6 +27,8 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 - [ggpubr](https://github.com/kassambara/ggpubr) - The {ggpubr} package provides some easy-to-use functions for creating and customizing {ggplot2} - based publication ready plots.
 
 - [ggbiplot](https://github.com/vqv/ggbiplot) - An implementation of the biplot using {ggplot2}. The package provides two functions: `ggscreeplot()` and `ggbiplot()`. {ggbiplot} aims to be a drop-in replacement for the built-in R function `biplot.princomp()` with extended functionality for labeling groups, drawing a correlation circle, and adding Normal probability ellipsoids.
+
+-[ggside](https://github.com/jtlandis/ggside) - this package expands on the ggplot2 and  allows the user to add graphical information about main panel’s axis with a boxplot or a density distribution.
 
 - [patchwork](https://patchwork.data-imaginist.com/) - he goal of {patchwork} is to make it ridiculously simple to combine separate ggplots into the same graphic.
 
@@ -52,6 +54,7 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
     - [Exploring the {gt} Package in R](https://towardsdatascience.com/exploring-the-gt-grammar-of-tables-package-in-r-7fff9d0b40cd)
     - [Great Looking Tables: gt](https://www.r-bloggers.com/2020/04/great-looking-tables-gt-v0-2/)
 - [gtsummary](http://www.danieldsjoberg.com/gtsummary/) - The {gtsummary} package provides an elegant and flexible way to create publication-ready analytical and summary tables using the R programming language. [vídeo](https://www.youtube.com/watch?v=fjAMsGISyXw)
+- [ttt - Formatted tables the easy way](https://github.com/benjaminrich/ttt) - {ttt} stands for "The Table Tool" (or, if you prefer "Tables! Tables! Tables!"). It allows you to creates structured, formatted HTML tables in a flexible and convenient way ([vignette](https://benjaminrich.github.io/ttt/vignettes/ttt-intro.html)).
 
 
 ### Manipulação de dados :hammer_and_wrench:
@@ -65,6 +68,7 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 - [fable](http://fable.tidyverts.org/) - The R package {fable} provides a collection of commonly used univariate and multivariate time series forecasting models including exponential smoothing via state space models and automatic ARIMA modelling. 
 
 - [tsibble](https://tsibble.tidyverts.org/) - The {tsibble} package provides a data infrastructure for tidy temporal data with wrangling tools.
+- [imputeTS](https://github.com/SteffenMoritz/imputeTS) - The imputeTS package specializes on (univariate) time series imputation.
 
 ### Shiny :iphone:
 
@@ -91,6 +95,7 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 - [Analytics for industRy](https://garthtarr.github.io/meatR/index.html)
 - [swirl courses](https://github.com/swirldev/swirl_courses)
 - [Statistical Rethinking: A Bayesian Course](https://github.com/rmcelreath/stat_rethinking_2020) and [here](https://github.com/rmcelreath/rethinking)
+- [Data Cleaning: Outlier Detection and Imputation of Missing Values](https://palomar.home.ece.ust.hk/MAFS6010R_lectures/slides_data_cleaning.html#1)
 
 ### CRAN Task Views
 
