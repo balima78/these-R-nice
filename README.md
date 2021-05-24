@@ -34,12 +34,12 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 - [gridExtra](https://www.r-bloggers.com/2011/04/extra-extra-get-your-gridextra/) - Arranging multiple plots on a page.[Basic examples](https://cran.r-project.org/web/packages/egg/vignettes/Ecosystem.html) and [more](https://www.r-graph-gallery.com/261-multiple-graphs-on-same-page.html).
 
-- [{ggiraph} makes ‘ggplot’ graphics interactive.](https://github.com/davidgohel/ggiraph) - {ggiraph} is a tool that allows you to create dynamic ggplot graphs. This allows you to add tooltips, hover effects and JavaScript actions to the graphics. The package also allows the selection of graphical elements when used in shiny applications.
+- [ggiraph](https://github.com/davidgohel/ggiraph) - {ggiraph} makes ‘ggplot’ graphics interactive. It is a tool that allows you to create dynamic ggplot graphs. This allows you to add tooltips, hover effects and JavaScript actions to the graphics. The package also allows the selection of graphical elements when used in shiny applications.
 
 #### Mapas :world_map:
 
 - [ggmap](https://github.com/dkahle/ggmap) - {ggmap} is an R package that makes it easy to retrieve raster map tiles from popular online mapping services like Google Maps and Stamen Maps and plot them using the {ggplot2} framework.
-- [Simple Features for R](https://github.com/r-spatial/sf) - A package that provides simple features access for R.
+- [sf](https://github.com/r-spatial/sf) - A package that provides simple features access for R.
 
 #### Redes :goal_net:
 
@@ -49,7 +49,7 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 - [corrplot]() - The R package `corrplot` is for visualizing correlation matrices and confidence intervals.[vignette](https://cran.r-project.org/web/packages/corrplot/vignettes/corrplot-intro.html)
 
-### Tabelas :card_index: :ticket:
+### Tabelas :ticket:
 
 - [mmtable2](https://github.com/ianmoran11/mmtable2) - {mmtable2} allows you to create and combine tables with a ggplot2/patchwork syntax. [vídeo](https://www.youtube.com/watch?v=6FvStEghDdg)
 
@@ -71,7 +71,7 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 - [fable](http://fable.tidyverts.org/) - The R package {fable} provides a collection of commonly used univariate and multivariate time series forecasting models including exponential smoothing via state space models and automatic ARIMA modelling. 
 
 - [tsibble](https://tsibble.tidyverts.org/) - The {tsibble} package provides a data infrastructure for tidy temporal data with wrangling tools.
-- [imputeTS](https://github.com/SteffenMoritz/imputeTS) - The imputeTS package specializes on (univariate) time series imputation.[package website](https://steffenmoritz.github.io/imputeTS/index.html)
+- [imputeTS](https://github.com/SteffenMoritz/imputeTS) - The imputeTS package specializes on (univariate) time series imputation. [package website](https://steffenmoritz.github.io/imputeTS/index.html)
 
 ### Shiny :iphone:
 
@@ -86,6 +86,7 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 - [sparklyr](https://github.com/sparklyr/sparklyr) - R interface for Apache Spark
 
+- [disk.frame](https://github.com/xiaodaigh/disk.frame/) - performs a similar role to distributed systems for medium data which are datasets that are too large for RAM but not quite large enough to qualify as big data. {disk.frame} [is epic](https://www.brodrigues.co/blog/2019-09-03-disk_frame/)
 
 :book: Livros e tutoriais
 -------------------------
@@ -102,6 +103,7 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 - [Analytics for industRy](https://garthtarr.github.io/meatR/index.html)
 - [swirl courses](https://github.com/swirldev/swirl_courses)
 - [Statistical Rethinking: A Bayesian Course](https://github.com/rmcelreath/stat_rethinking_2020) and [here](https://github.com/rmcelreath/rethinking)
+- [Bayesian Modelling](lectures/lect1bayes.pdf)
 - [Data Cleaning: Outlier Detection and Imputation of Missing Values](https://palomar.home.ece.ust.hk/MAFS6010R_lectures/slides_data_cleaning.html#1)
 - [Awesome official statistics software](https://github.com/SNStatComp/awesome-official-statistics-software) - An awesome list of open source statistical software useful for creating and accessing official statistics.
 
