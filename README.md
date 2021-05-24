@@ -28,11 +28,13 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 - [ggbiplot](https://github.com/vqv/ggbiplot) - An implementation of the biplot using {ggplot2}. The package provides two functions: `ggscreeplot()` and `ggbiplot()`. {ggbiplot} aims to be a drop-in replacement for the built-in R function `biplot.princomp()` with extended functionality for labeling groups, drawing a correlation circle, and adding Normal probability ellipsoids.
 
--[ggside](https://github.com/jtlandis/ggside) - this package expands on the ggplot2 and  allows the user to add graphical information about main panel’s axis with a boxplot or a density distribution.
+- [ggside](https://github.com/jtlandis/ggside) - this package expands on the ggplot2 and  allows the user to add graphical information about main panel’s axis with a boxplot or a density distribution.
 
 - [patchwork](https://patchwork.data-imaginist.com/) - he goal of {patchwork} is to make it ridiculously simple to combine separate ggplots into the same graphic.
 
 - [gridExtra](https://www.r-bloggers.com/2011/04/extra-extra-get-your-gridextra/) - Arranging multiple plots on a page.[Basic examples](https://cran.r-project.org/web/packages/egg/vignettes/Ecosystem.html) and [more](https://www.r-graph-gallery.com/261-multiple-graphs-on-same-page.html).
+
+- [{ggiraph} makes ‘ggplot’ graphics interactive.](https://github.com/davidgohel/ggiraph) - {ggiraph} is a tool that allows you to create dynamic ggplot graphs. This allows you to add tooltips, hover effects and JavaScript actions to the graphics. The package also allows the selection of graphical elements when used in shiny applications.
 
 #### Mapas :world_map:
 
@@ -45,7 +47,9 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 #### Correlações :chart_with_upwards_trend:
 
-### Tabelas :man_teacher:
+- [corrplot]() - The R package `corrplot` is for visualizing correlation matrices and confidence intervals.[vignette](https://cran.r-project.org/web/packages/corrplot/vignettes/corrplot-intro.html)
+
+### Tabelas :card_index: :ticket:
 
 - [mmtable2](https://github.com/ianmoran11/mmtable2) - {mmtable2} allows you to create and combine tables with a ggplot2/patchwork syntax. [vídeo](https://www.youtube.com/watch?v=6FvStEghDdg)
 
@@ -56,11 +60,10 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 - [gtsummary](http://www.danieldsjoberg.com/gtsummary/) - The {gtsummary} package provides an elegant and flexible way to create publication-ready analytical and summary tables using the R programming language. [vídeo](https://www.youtube.com/watch?v=fjAMsGISyXw)
 - [ttt - Formatted tables the easy way](https://github.com/benjaminrich/ttt) - {ttt} stands for "The Table Tool" (or, if you prefer "Tables! Tables! Tables!"). It allows you to creates structured, formatted HTML tables in a flexible and convenient way ([vignette](https://benjaminrich.github.io/ttt/vignettes/ttt-intro.html)).
 
-
 ### Manipulação de dados :hammer_and_wrench:
 
 - [broom](https://github.com/tidymodels/broom) - {broom} summarizes key information about models in tidy `tibble()`s.
- 
+
 ### Time series :hourglass:
 
 - [CRAN Task View: Time Series Analysis](https://github.com/robjhyndman/ctv-TimeSeries)
@@ -68,7 +71,7 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 - [fable](http://fable.tidyverts.org/) - The R package {fable} provides a collection of commonly used univariate and multivariate time series forecasting models including exponential smoothing via state space models and automatic ARIMA modelling. 
 
 - [tsibble](https://tsibble.tidyverts.org/) - The {tsibble} package provides a data infrastructure for tidy temporal data with wrangling tools.
-- [imputeTS](https://github.com/SteffenMoritz/imputeTS) - The imputeTS package specializes on (univariate) time series imputation.
+- [imputeTS](https://github.com/SteffenMoritz/imputeTS) - The imputeTS package specializes on (univariate) time series imputation.[package website](https://steffenmoritz.github.io/imputeTS/index.html)
 
 ### Shiny :iphone:
 
@@ -77,6 +80,8 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 ### a testar :boom:
 
+- [data.table](https://github.com/Rdatatable/data.table) - `data.table` provides a high-performance version of base R's `data.frame` with syntax and feature enhancements for ease of use, convenience and programming speed. Introduction to data.table [vignette](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html)
+
 - [r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes#blogposts-and-other-resources) - Comprehensive list of color palettes in r
 
 - [sparklyr](https://github.com/sparklyr/sparklyr) - R interface for Apache Spark
@@ -84,18 +89,21 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 :book: Livros e tutoriais
 -------------------------
-
 - [The targets R Package User Manual](https://books.ropensci.org/targets/)
 - [R books](https://github.com/RomanTsegelskyi/rbooks)
 - [awesome-r-learning-resources](https://github.com/iamericfletcher/awesome-r-learning-resources#readme)
 - [awesome-R](https://github.com/qinwf/awesome-R)
 - [Big Book of R](https://www.bigbookofr.com/)
+- **An Introduction to Statistical Learning with Applications in R (ISLR)**
+  - [15 hours of expert videos](https://www.r-bloggers.com/2014/09/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/)
+  - [ISLR tidymodels Labs](https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/index.html)
 - [curso em video](https://www.cursoemvideo.com/cursos/)
 - [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
 - [Analytics for industRy](https://garthtarr.github.io/meatR/index.html)
 - [swirl courses](https://github.com/swirldev/swirl_courses)
 - [Statistical Rethinking: A Bayesian Course](https://github.com/rmcelreath/stat_rethinking_2020) and [here](https://github.com/rmcelreath/rethinking)
 - [Data Cleaning: Outlier Detection and Imputation of Missing Values](https://palomar.home.ece.ust.hk/MAFS6010R_lectures/slides_data_cleaning.html#1)
+- [Awesome official statistics software](https://github.com/SNStatComp/awesome-official-statistics-software) - An awesome list of open source statistical software useful for creating and accessing official statistics.
 
 ### CRAN Task Views
 
