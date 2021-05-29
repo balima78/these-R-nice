@@ -12,6 +12,8 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 - [janitor](https://github.com/sfirke/janitor) - {janitor} has simple functions for examining and cleaning dirty data.[Exemplo do seu uso](https://garthtarr.github.io/meatR/janitor.html)
 
+- [summarytools](https://cran.r-project.org/web/packages/summarytools/vignettes/Introduction.html) - provides a coherent set of functions centered on data exploration and simple reporting.
+
 ### Bases de dados :bank:
 
 - [CRAN Task View: Databases with R](https://github.com/terrytangyuan/ctv-databases)
@@ -36,6 +38,8 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 - [ggiraph](https://github.com/davidgohel/ggiraph) - {ggiraph} makes ‘ggplot’ graphics interactive. It is a tool that allows you to create dynamic ggplot graphs. This allows you to add tooltips, hover effects and JavaScript actions to the graphics. The package also allows the selection of graphical elements when used in shiny applications.
 
+- [highcharter](https://jkunst.com/highcharter/) - an **R** wrapper for [Highcharts](https://www.highcharts.com/) javascript library and its modules. Highcharts is very flexible and customizable javascript charting library and it has a great and powerful API.
+
 #### Mapas :world_map:
 
 - [ggmap](https://github.com/dkahle/ggmap) - {ggmap} is an R package that makes it easy to retrieve raster map tiles from popular online mapping services like Google Maps and Stamen Maps and plot them using the {ggplot2} framework.
@@ -59,6 +63,9 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
     - [Great Looking Tables: gt](https://www.r-bloggers.com/2020/04/great-looking-tables-gt-v0-2/)
 - [gtsummary](http://www.danieldsjoberg.com/gtsummary/) - The {gtsummary} package provides an elegant and flexible way to create publication-ready analytical and summary tables using the R programming language. [vídeo](https://www.youtube.com/watch?v=fjAMsGISyXw)
 - [ttt - Formatted tables the easy way](https://github.com/benjaminrich/ttt) - {ttt} stands for "The Table Tool" (or, if you prefer "Tables! Tables! Tables!"). It allows you to creates structured, formatted HTML tables in a flexible and convenient way ([vignette](https://benjaminrich.github.io/ttt/vignettes/ttt-intro.html)).
+- [printr](https://cran.r-project.org/web/packages/printr/vignettes/printr.html) - The {printr} package is a companion package to knitr.
+- [stargazer](https://cran.r-project.org/web/packages/stargazer/vignettes/stargazer.pdf) -  an R package that creates well-formatted regression tables, with multiple models side-by-side, as well as for summary statistics tables, data frames, vectors and matrices.
+
 
 ### Manipulação de dados :hammer_and_wrench:
 
