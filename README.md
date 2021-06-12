@@ -71,6 +71,8 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 - [broom](https://github.com/tidymodels/broom) - {broom} summarizes key information about models in tidy `tibble()`s.
 
+- [dtplyr](https://dtplyr.tidyverse.org/) -  The goal of {dtplyr} is to allow you to write {dplyr} code that is automatically translated to the equivalent, but usually much faster, {data.table} code. [A simple usage](https://www.tidyverse.org/blog/2019/11/dtplyr-1-0-0/).
+
 ### Time series :hourglass:
 
 - [CRAN Task View: Time Series Analysis](https://github.com/robjhyndman/ctv-TimeSeries)
@@ -95,8 +97,11 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 - [disk.frame](https://github.com/xiaodaigh/disk.frame/) - performs a similar role to distributed systems for medium data which are datasets that are too large for RAM but not quite large enough to qualify as big data. {disk.frame} [is epic](https://www.brodrigues.co/blog/2019-09-03-disk_frame/)
 
+- [easystats](https://github.com/easystats/easystats) - a collection of R packages, which aims to provide a unifying and consistent framework to tame, discipline, and harness the scary R statistics and their pesky models.
+
 :book: Livros e tutoriais
 -------------------------
+- [pkgsearch](https://r-hub.github.io/pkgsearch/) - Search and Query CRAN R Packages. {pkgsearch} uses R-hub web services that munge CRAN metadata and let you access it through several lenses.
 - [The targets R Package User Manual](https://books.ropensci.org/targets/)
 - [R books](https://github.com/RomanTsegelskyi/rbooks)
 - [awesome-r-learning-resources](https://github.com/iamericfletcher/awesome-r-learning-resources#readme)
@@ -105,6 +110,10 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 - **An Introduction to Statistical Learning with Applications in R (ISLR)**
   - [15 hours of expert videos](https://www.r-bloggers.com/2014/09/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/)
   - [ISLR tidymodels Labs](https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/index.html)
+- **Epidemiology with R**
+  - [An R View into Epidemiology](https://rviews.rstudio.com/2020/05/20/some-r-resources-for-epidemiology/)
+  - [The Epidemiologist R Handbook](https://epirhandbook.com/)
+  - [R for Epidemiology](https://www.r4epi.com/)
 - [curso em video](https://www.cursoemvideo.com/cursos/)
 - [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
 - [Analytics for industRy](https://garthtarr.github.io/meatR/index.html)
