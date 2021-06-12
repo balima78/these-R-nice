@@ -14,6 +14,8 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 - [summarytools](https://cran.r-project.org/web/packages/summarytools/vignettes/Introduction.html) - provides a coherent set of functions centered on data exploration and simple reporting.
 
+-[inspectdf](https://alastairrushworth.github.io/inspectdf/index.html) -  a collection of utilities for columnwise summary, comparison and visualisation of data frames.
+
 ### Bases de dados :bank:
 
 - [CRAN Task View: Databases with R](https://github.com/terrytangyuan/ctv-databases)
@@ -99,8 +101,18 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 - [easystats](https://github.com/easystats/easystats) - a collection of R packages, which aims to provide a unifying and consistent framework to tame, discipline, and harness the scary R statistics and their pesky models.
 
+### Cheat sheet :newspaper:
+
+- [base R](lectures/base-r-cheat-sheet.pdf)
+- [advanced R](lectures/advancedR.pdf)
+- [Eurostat data](lectures/eurostat.pdf)
+- [Searching CRAN with packagefinder](lectures/packagefinder.pdf)
+- [ultimate chet sheet](lectures/Data_Science_R_Workflow.pdf)
+- [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/) - here a post [about it](https://rviews.rstudio.com/2021/03/10/rstudio-open-source-resorurces)
+
 :book: Livros e tutoriais
 -------------------------
+- [Free data science resources](https://github.com/alastairrushworth/free-data-science) - The goal of this page is to gather resources and learning materials across a broad range of popular data science topics and arrange them thematically. 
 - [pkgsearch](https://r-hub.github.io/pkgsearch/) - Search and Query CRAN R Packages. {pkgsearch} uses R-hub web services that munge CRAN metadata and let you access it through several lenses.
 - [The targets R Package User Manual](https://books.ropensci.org/targets/)
 - [R books](https://github.com/RomanTsegelskyi/rbooks)
