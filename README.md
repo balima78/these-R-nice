@@ -14,7 +14,7 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 - [summarytools](https://cran.r-project.org/web/packages/summarytools/vignettes/Introduction.html) - provides a coherent set of functions centered on data exploration and simple reporting.
 
--[inspectdf](https://alastairrushworth.github.io/inspectdf/index.html) -  a collection of utilities for columnwise summary, comparison and visualisation of data frames.
+- [inspectdf](https://alastairrushworth.github.io/inspectdf/index.html) -  a collection of utilities for columnwise summary, comparison and visualisation of data frames.
 
 ### Bases de dados :bank:
 
@@ -107,8 +107,8 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 - [advanced R](lectures/advancedR.pdf)
 - [Eurostat data](lectures/eurostat.pdf)
 - [Searching CRAN with packagefinder](lectures/packagefinder.pdf)
-- [ultimate chet sheet](lectures/Data_Science_R_Workflow.pdf)
-- [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/) - here a post [about it](https://rviews.rstudio.com/2021/03/10/rstudio-open-source-resorurces)
+- [ultimate cheat sheet](lectures/Data_Science_R_Workflow.pdf)
+- [RStudio Cheat sheets](https://www.rstudio.com/resources/cheatsheets/) - here a post [about it](https://rviews.rstudio.com/2021/03/10/rstudio-open-source-resorurces)
 
 :book: Livros e tutoriais
 -------------------------
