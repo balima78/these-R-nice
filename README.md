@@ -12,9 +12,15 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 - [janitor](https://github.com/sfirke/janitor) - {janitor} has simple functions for examining and cleaning dirty data.[Exemplo do seu uso](https://garthtarr.github.io/meatR/janitor.html)
 
+- [skimr](https://github.com/ropensci/skimr/) - provides a frictionless approach to summary statistics the user can skim quickly to understand their data. It comes with a set of default summary functions for a wide variety of data types. [Skim statistics in the console](https://docs.ropensci.org/skimr/articles/Supporting_additional_objects.html).
+
 - [summarytools](https://cran.r-project.org/web/packages/summarytools/vignettes/Introduction.html) - provides a coherent set of functions centered on data exploration and simple reporting.
 
-- [inspectdf](https://alastairrushworth.github.io/inspectdf/index.html) -  a collection of utilities for columnwise summary, comparison and visualisation of data frames.
+- [inspectdf](https://alastairrushworth.github.io/inspectdf/index.html) -  a collection of utilities for columnwise summary, comparison and visualisation of data frames. 
+
+- [descriptr](https://blog.rsquaredacademy.com/introducing-descriptr/) -  a set of tools for generating descriptive/summary statistics. A more [comprehensive documentation](https://descriptr.rsquaredacademy.com/index.html) on using the package.
+
+- [tidylog](https://github.com/elbersb/tidylog/) - The goal of {tidylog} is to provide feedback about {dplyr} and {tidyr} operations.
 
 ### Bases de dados :bank:
 
@@ -23,6 +29,8 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 ### Visualização :bar_chart:
 
 - [ggplot2 extensions](https://exts.ggplot2.tidyverse.org/gallery/)
+
+- [gghighlight](https://github.com/yutannihilation/gghighlight/) - Highlight geoms in {ggplot2}. [Introduction to](https://yutannihilation.github.io/gghighlight/articles/gghighlight.html) {gghighlight}.
 
 - [gganimate](https://gganimate.com/) - {gganimate} extends the grammar of graphics as implemented by {ggplot2} to include the description of animation. It does this by providing a range of new grammar classes that can be added to the plot object in order to customise how it should change with time.
 
@@ -134,6 +142,9 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 - [Bayesian Modelling](lectures/lect1bayes.pdf)
 - [Data Cleaning: Outlier Detection and Imputation of Missing Values](https://palomar.home.ece.ust.hk/MAFS6010R_lectures/slides_data_cleaning.html#1)
 - [Awesome official statistics software](https://github.com/SNStatComp/awesome-official-statistics-software) - An awesome list of open source statistical software useful for creating and accessing official statistics.
+- [Rsquared Academy](https://blog.rsquaredacademy.com/):
+    + [Demystifying Regular Expressions in R](https://blog.rsquaredacademy.com/regular-expression-in-r/)
+    + [A Comprehensive Introduction to Working with Databases using R](https://blog.rsquaredacademy.com/working-with-databases-using-r/)
 
 ### CRAN Task Views
 
@@ -149,3 +160,4 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 ### Outras cenas :bowtie:
 
 - [icons .md](https://gist.github.com/rxaviers/7360908) 
+- [Mathematics in R Markdown](https://rpruim.github.io/s341/S19/from-class/MathinRmd.html)
