@@ -50,6 +50,8 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 - [highcharter](https://jkunst.com/highcharter/) - an **R** wrapper for [Highcharts](https://www.highcharts.com/) javascript library and its modules. Highcharts is very flexible and customizable javascript charting library and it has a great and powerful API.
 
+- [ggdist](https://github.com/mjskay/ggdist) - Visualizations of distributions and uncertainty. A [video example](https://www.youtube.com/watch?v=nz2gHnaqX2w). [Example code](https://github.com/business-science/free_r_tips/blob/master/042_raincloud_plots/042_raincloud_plots.R)
+
 #### Mapas :world_map:
 
 - [ggmap](https://github.com/dkahle/ggmap) - {ggmap} is an R package that makes it easy to retrieve raster map tiles from popular online mapping services like Google Maps and Stamen Maps and plot them using the {ggplot2} framework.
@@ -121,7 +123,6 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 :book: Livros e tutoriais
 -------------------------
 - [Free data science resources](https://github.com/alastairrushworth/free-data-science) - The goal of this page is to gather resources and learning materials across a broad range of popular data science topics and arrange them thematically. 
-- [pkgsearch](https://r-hub.github.io/pkgsearch/) - Search and Query CRAN R Packages. {pkgsearch} uses R-hub web services that munge CRAN metadata and let you access it through several lenses.
 - [The targets R Package User Manual](https://books.ropensci.org/targets/)
 - [R books](https://github.com/RomanTsegelskyi/rbooks)
 - [awesome-r-learning-resources](https://github.com/iamericfletcher/awesome-r-learning-resources#readme)
@@ -145,6 +146,7 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 - [Rsquared Academy](https://blog.rsquaredacademy.com/):
     + [Demystifying Regular Expressions in R](https://blog.rsquaredacademy.com/regular-expression-in-r/)
     + [A Comprehensive Introduction to Working with Databases using R](https://blog.rsquaredacademy.com/working-with-databases-using-r/)
+- [EarthLab](https://www.earthdatascience.org/) - Earth Data Science contains open, tutorials and course materials covering topics including data integration, GIS and data intensive science.
 
 ### CRAN Task Views
 
@@ -161,3 +163,4 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 - [icons .md](https://gist.github.com/rxaviers/7360908) 
 - [Mathematics in R Markdown](https://rpruim.github.io/s341/S19/from-class/MathinRmd.html)
+- [pkgsearch](https://r-hub.github.io/pkgsearch/) - Search and Query CRAN R Packages. {pkgsearch} uses R-hub web services that munge CRAN metadata and let you access it through several lenses.
