@@ -4,21 +4,27 @@ Compilação de *packages* R que vou encontrando e não quero perder.
 :writing\_hand: Autor: Bruno A Lima
 ----------------------
 
-As minhas principais fontes são as *newsletters* da [Business Science University](https://university.business-science.io/), os *e-mails* de [R weekly](https://rweekly.org/), o *blog* [R-bloggers](https://www.r-bloggers.com/) e o *site* [Code Learning](https://www.222222.best/).
+As minhas principais fontes são as *newsletters* da [Business Science University](https://university.business-science.io/), os *e-mails* de [R weekly](https://rweekly.org/), o *blog* [R-bloggers](https://www.r-bloggers.com/) e eventualmente outras cenas...
 
 ### Profiling (EDA) :eyes:
 
+- [DataExplorer](http://boxuancui.github.io/DataExplorer/index.html) - automates most of data handling and visualization. [Exemplo de uso](https://cran.r-project.org/web/packages/DataExplorer/vignettes/dataexplorer-intro.html).
+
+- [dlookr](https://github.com/choonghyunryu/dlookr) - Diagnose, explore and transform data.
+
+- [Hmisc](https://hbiostat.org/R/Hmisc/) - A set of functions to put together in an `rmarkdow` html document using RStudio and `knitr`. [Exemplo de uso](https://hbiostat.org/R/Hmisc/examples.html)
+
 - [naniar](https://github.com/njtierney/naniar) - {naniar} provides principled, tidy ways to summarise, visualise, and manipulate missing data with minimal deviations from the workflows in ggplot2 and tidy data.
 
-- [janitor](https://github.com/sfirke/janitor) - {janitor} has simple functions for examining and cleaning dirty data.[Exemplo do seu uso](https://garthtarr.github.io/meatR/janitor.html)
+- [janitor](https://github.com/sfirke/janitor) - {janitor} has simple functions for examining and cleaning dirty data.[Exemplo de uso](https://garthtarr.github.io/meatR/janitor.html)
 
 - [skimr](https://github.com/ropensci/skimr/) - provides a frictionless approach to summary statistics the user can skim quickly to understand their data. It comes with a set of default summary functions for a wide variety of data types. [Skim statistics in the console](https://docs.ropensci.org/skimr/articles/Supporting_additional_objects.html).
 
 - [summarytools](https://cran.r-project.org/web/packages/summarytools/vignettes/Introduction.html) - provides a coherent set of functions centered on data exploration and simple reporting.
 
-- [inspectdf](https://alastairrushworth.github.io/inspectdf/index.html) -  a collection of utilities for columnwise summary, comparison and visualisation of data frames. 
-
 - [descriptr](https://blog.rsquaredacademy.com/introducing-descriptr/) -  a set of tools for generating descriptive/summary statistics. A more [comprehensive documentation](https://descriptr.rsquaredacademy.com/index.html) on using the package.
+
+- [inspectdf](https://alastairrushworth.github.io/inspectdf/index.html) -  a collection of utilities for columnwise summary, comparison and visualisation of data frames. 
 
 - [tidylog](https://github.com/elbersb/tidylog/) - The goal of {tidylog} is to provide feedback about {dplyr} and {tidyr} operations.
 
