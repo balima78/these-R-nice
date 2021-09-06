@@ -36,6 +36,8 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 - [ggplot2 extensions](https://exts.ggplot2.tidyverse.org/gallery/)
 
+- [ggformula](https://github.com/ProjectMOSAIC/ggformula) - This package captures and extends the excellent simplicity of the {lattice}-graphics formula interface, while providing the intuitive “add this component” capabilities of {ggplot2}. [Exemplos de uso](http://www.mosaic-web.org/ggformula/).
+
 - [gghighlight](https://github.com/yutannihilation/gghighlight/) - Highlight geoms in {ggplot2}. [Introduction to](https://yutannihilation.github.io/gghighlight/articles/gghighlight.html) {gghighlight}.
 
 - [gganimate](https://gganimate.com/) - {gganimate} extends the grammar of graphics as implemented by {ggplot2} to include the description of animation. It does this by providing a range of new grammar classes that can be added to the plot object in order to customise how it should change with time.
@@ -84,6 +86,7 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 - [printr](https://cran.r-project.org/web/packages/printr/vignettes/printr.html) - The {printr} package is a companion package to knitr.
 - [stargazer](https://cran.r-project.org/web/packages/stargazer/vignettes/stargazer.pdf) -  an R package that creates well-formatted regression tables, with multiple models side-by-side, as well as for summary statistics tables, data frames, vectors and matrices.
 
+- [sparkline](https://cran.r-project.org/web/packages/sparkline/index.html) - Include interactive sparkline charts in all R contexts with the convenience of 'htmlwidgets'. [Exemplo de uso _inline_](https://bart6114.github.io/sparklines/); [Exemplo de uso e {DT}](https://www.youtube.com/watch?v=BayiCqu0y9o)
 
 ### Manipulação de dados :hammer_and_wrench:
 
@@ -104,10 +107,12 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 - [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/index.html)
 - [Mastering Shiny](https://mastering-shiny.org/)
+- [shinydashboard](https://cran.r-project.org/web/packages/shinydashboard/index.html) - Create dashboards with 'Shiny'. [Exemplos de uso](https://rstudio.github.io/shinydashboard/)
+- [shinydashboardPlus](https://cran.r-project.org/web/packages/shinydashboardPlus/index.html) - Extend {shinydashboard} with 'AdminLTE2' components. [Exemplo de uso](https://rinterface.com/shiny/shinydashboardPlus/)
 
 ### a testar :boom:
 
-- [data.table](https://github.com/Rdatatable/data.table) - `data.table` provides a high-performance version of base R's `data.frame` with syntax and feature enhancements for ease of use, convenience and programming speed. Introduction to data.table [vignette](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html)
+- [data.table](https://github.com/Rdatatable/data.table) - `data.table` provides a high-performance version of base R's `data.frame` with syntax and feature enhancements for ease of use, convenience and programming speed. Introduction to data.table [vignette](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html). [Exemplo de uso](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/)
 
 - [r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes#blogposts-and-other-resources) - Comprehensive list of color palettes in r
 
@@ -116,6 +121,8 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 - [disk.frame](https://github.com/xiaodaigh/disk.frame/) - performs a similar role to distributed systems for medium data which are datasets that are too large for RAM but not quite large enough to qualify as big data. {disk.frame} [is epic](https://www.brodrigues.co/blog/2019-09-03-disk_frame/)
 
 - [easystats](https://github.com/easystats/easystats) - a collection of R packages, which aims to provide a unifying and consistent framework to tame, discipline, and harness the scary R statistics and their pesky models.
+
+- [tidyfst](https://cran.r-project.org/web/packages/tidyfst/index.html) - Tidy Verbs for Fast Data Manipulation. [Exemplo de uso](https://hope-data-science.github.io/tidyfst/articles/english_tutorial.html)
 
 ### Cheat sheet :newspaper:
 
@@ -137,6 +144,7 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 - **An Introduction to Statistical Learning with Applications in R (ISLR)**
   - [15 hours of expert videos](https://www.r-bloggers.com/2014/09/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/)
   - [ISLR tidymodels Labs](https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/index.html)
+  - [ISLR](https://cran.r-project.org/web/packages/ISLR2/index.html) - An Introduction to Statistical Learning with Applications in R, [Second Edition](https://www.statlearning.com/)
 - **Epidemiology with R**
   - [An R View into Epidemiology](https://rviews.rstudio.com/2020/05/20/some-r-resources-for-epidemiology/)
   - [The Epidemiologist R Handbook](https://epirhandbook.com/)
