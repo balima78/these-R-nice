@@ -10,7 +10,7 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 - [DataExplorer](http://boxuancui.github.io/DataExplorer/index.html) - automates most of data handling and visualization. [Exemplo de uso](https://cran.r-project.org/web/packages/DataExplorer/vignettes/dataexplorer-intro.html).
 
-- [dlookr](https://github.com/choonghyunryu/dlookr) - Diagnose, explore and transform data.
+- [dlookr](https://github.com/choonghyunryu/dlookr) - Diagnose, explore and transform data. [Overview pagw.](https://choonghyunryu.github.io/dlookr/index.html)
 
 - [Hmisc](https://hbiostat.org/R/Hmisc/) - A set of functions to put together in an `rmarkdow` html document using RStudio and `knitr`. [Exemplo de uso](https://hbiostat.org/R/Hmisc/examples.html)
 
