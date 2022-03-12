@@ -96,16 +96,15 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 - [tableone](https://cran.r-project.org/web/packages/tableone/) - Create 'Table 1' to Describe Baseline Characteristics with or without Propensity Score Weights
 - [table1](https://cran.r-project.org/web/packages/table1/) - Create HTML tables of descriptive statistics, as one would expect to see as the first table (i.e. "Table 1") in a medical/epidemiological journal article.
 
-
 - [sparkline](https://cran.r-project.org/web/packages/sparkline/index.html) - Include interactive sparkline charts in all R contexts with the convenience of 'htmlwidgets'. [Exemplo de uso _inline_](https://bart6114.github.io/sparklines/); [Exemplo de uso e {DT}](https://www.youtube.com/watch?v=BayiCqu0y9o)
-
-- [data.table](https://github.com/Rdatatable/data.table) - `data.table` provides a high-performance version of base R's `data.frame` with syntax and feature enhancements for ease of use, convenience and programming speed. Introduction to data.table [vignette](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html). [Exemplo de uso](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/)
 
 ### Manipulação de dados :hammer_and_wrench:
 
 - [broom](https://github.com/tidymodels/broom) - {broom} summarizes key information about models in tidy `tibble()`s.
 
 - [dtplyr](https://dtplyr.tidyverse.org/) -  The goal of {dtplyr} is to allow you to write {dplyr} code that is automatically translated to the equivalent, but usually much faster, {data.table} code. [A simple usage](https://www.tidyverse.org/blog/2019/11/dtplyr-1-0-0/).
+
+- [data.table](https://github.com/Rdatatable/data.table) - `data.table` provides a high-performance version of base R's `data.frame` with syntax and feature enhancements for ease of use, convenience and programming speed. Introduction to data.table [vignette](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html). [Exemplo de uso](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/)
 
 ### Time series :hourglass:
 
