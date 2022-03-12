@@ -10,7 +10,7 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 - [DataExplorer](http://boxuancui.github.io/DataExplorer/index.html) - automates most of data handling and visualization. [Exemplo de uso](https://cran.r-project.org/web/packages/DataExplorer/vignettes/dataexplorer-intro.html).
 
-- [dlookr](https://github.com/choonghyunryu/dlookr) - Diagnose, explore and transform data. [Overview pagw.](https://choonghyunryu.github.io/dlookr/index.html)
+- [dlookr](https://github.com/choonghyunryu/dlookr) - Diagnose, explore and transform data. [Overview page.](https://choonghyunryu.github.io/dlookr/index.html)
 
 - [Hmisc](https://hbiostat.org/R/Hmisc/) - A set of functions to put together in an `rmarkdow` html document using RStudio and `knitr`. [Exemplo de uso](https://hbiostat.org/R/Hmisc/examples.html)
 
@@ -24,7 +24,11 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 - [descriptr](https://blog.rsquaredacademy.com/introducing-descriptr/) -  a set of tools for generating descriptive/summary statistics. A more [comprehensive documentation](https://descriptr.rsquaredacademy.com/index.html) on using the package.
 
+- [funModeling](https://cran.r-project.org/web/packages/funModeling/vignettes/funModeling_quickstart.html) - 
+
 - [inspectdf](https://alastairrushworth.github.io/inspectdf/index.html) -  a collection of utilities for columnwise summary, comparison and visualisation of data frames. 
+
+- [psych]()
 
 - [tidylog](https://github.com/elbersb/tidylog/) - The goal of {tidylog} is to provide feedback about {dplyr} and {tidyr} operations.
 
@@ -60,6 +64,8 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 - [ggdist](https://github.com/mjskay/ggdist) - Visualizations of distributions and uncertainty. A [video example](https://www.youtube.com/watch?v=nz2gHnaqX2w). [Example code](https://github.com/business-science/free_r_tips/blob/master/042_raincloud_plots/042_raincloud_plots.R)
 
+- [visdat](https://cran.r-project.org/web/packages/visdat/) - Create preliminary exploratory data visualisations of an entire dataset to identify problems or unexpected features using 'ggplot2'.
+
 #### Mapas :world_map:
 
 - [ggmap](https://github.com/dkahle/ggmap) - {ggmap} is an R package that makes it easy to retrieve raster map tiles from popular online mapping services like Google Maps and Stamen Maps and plot them using the {ggplot2} framework.
@@ -71,7 +77,9 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 #### Correlações :chart_with_upwards_trend:
 
-- [corrplot]() - The R package `corrplot` is for visualizing correlation matrices and confidence intervals.[vignette](https://cran.r-project.org/web/packages/corrplot/vignettes/corrplot-intro.html)
+- [corrplot](https://github.com/taiyun/corrplot) - The R package `corrplot` is for visualizing correlation matrices and confidence intervals.[vignette](https://cran.r-project.org/web/packages/corrplot/vignettes/corrplot-intro.html)
+- [ggcorrplot](https://cran.r-project.org/web/packages/ggcorrplot/readme/README.html#:~:text=The%20ggcorrplot%20package%20can%20be,matrix%20of%20correlation%20p%2Dvalues.) - The ggcorrplot package can be used to visualize easily a correlation matrix using ggplot2
+- [GGally](https://ggobi.github.io/ggally/) - GGally extends ggplot2 by adding several functions to reduce the complexity of combining geoms with transformed data
 
 ### Tabelas :ticket:
 
@@ -85,8 +93,13 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 - [ttt - Formatted tables the easy way](https://github.com/benjaminrich/ttt) - {ttt} stands for "The Table Tool" (or, if you prefer "Tables! Tables! Tables!"). It allows you to creates structured, formatted HTML tables in a flexible and convenient way ([vignette](https://benjaminrich.github.io/ttt/vignettes/ttt-intro.html)).
 - [printr](https://cran.r-project.org/web/packages/printr/vignettes/printr.html) - The {printr} package is a companion package to knitr.
 - [stargazer](https://cran.r-project.org/web/packages/stargazer/vignettes/stargazer.pdf) -  an R package that creates well-formatted regression tables, with multiple models side-by-side, as well as for summary statistics tables, data frames, vectors and matrices.
+- [tableone](https://cran.r-project.org/web/packages/tableone/) - Create 'Table 1' to Describe Baseline Characteristics with or without Propensity Score Weights
+- [table1](https://cran.r-project.org/web/packages/table1/) - Create HTML tables of descriptive statistics, as one would expect to see as the first table (i.e. "Table 1") in a medical/epidemiological journal article.
+
 
 - [sparkline](https://cran.r-project.org/web/packages/sparkline/index.html) - Include interactive sparkline charts in all R contexts with the convenience of 'htmlwidgets'. [Exemplo de uso _inline_](https://bart6114.github.io/sparklines/); [Exemplo de uso e {DT}](https://www.youtube.com/watch?v=BayiCqu0y9o)
+
+- [data.table](https://github.com/Rdatatable/data.table) - `data.table` provides a high-performance version of base R's `data.frame` with syntax and feature enhancements for ease of use, convenience and programming speed. Introduction to data.table [vignette](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html). [Exemplo de uso](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/)
 
 ### Manipulação de dados :hammer_and_wrench:
 
@@ -101,7 +114,12 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 - [fable](http://fable.tidyverts.org/) - The R package {fable} provides a collection of commonly used univariate and multivariate time series forecasting models including exponential smoothing via state space models and automatic ARIMA modelling. 
 
 - [tsibble](https://tsibble.tidyverts.org/) - The {tsibble} package provides a data infrastructure for tidy temporal data with wrangling tools.
+
 - [imputeTS](https://github.com/SteffenMoritz/imputeTS) - The imputeTS package specializes on (univariate) time series imputation. [package website](https://steffenmoritz.github.io/imputeTS/index.html)
+
+- [anytime](https://cran.r-project.org/web/packages/anytime/index.html) - Anything to POSIXct or Date Converter
+
+- [autostsm](https://cran.r-project.org/web/packages/autostsm/) - Automatic model selection for structural time series decomposition into trend, cycle, and seasonal components, plus optionality for structural interpolation, using the Kalman filter.
 
 ### Shiny :iphone:
 
@@ -111,8 +129,6 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 - [shinydashboardPlus](https://cran.r-project.org/web/packages/shinydashboardPlus/index.html) - Extend {shinydashboard} with 'AdminLTE2' components. [Exemplo de uso](https://rinterface.com/shiny/shinydashboardPlus/)
 
 ### a testar :boom:
-
-- [data.table](https://github.com/Rdatatable/data.table) - `data.table` provides a high-performance version of base R's `data.frame` with syntax and feature enhancements for ease of use, convenience and programming speed. Introduction to data.table [vignette](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html). [Exemplo de uso](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/)
 
 - [r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes#blogposts-and-other-resources) - Comprehensive list of color palettes in r
 
@@ -149,8 +165,10 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
   - [An R View into Epidemiology](https://rviews.rstudio.com/2020/05/20/some-r-resources-for-epidemiology/)
   - [The Epidemiologist R Handbook](https://epirhandbook.com/)
   - [R for Epidemiology](https://www.r4epi.com/)
+- [STHDA](http://www.sthda.com/english/) - Statistical tools for high-throughput data analysis
 - [curso em video](https://www.cursoemvideo.com/cursos/)
-- [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
+- [Forecasting: Principles and Practice](https://otexts.com/fpp3/)
+- [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/) - A Complete Tutorial on Time Series Modeling in R
 - [Analytics for industRy](https://garthtarr.github.io/meatR/index.html)
 - [swirl courses](https://github.com/swirldev/swirl_courses)
 - [Statistical Rethinking: A Bayesian Course](https://github.com/rmcelreath/stat_rethinking_2020) and [here](https://github.com/rmcelreath/rethinking)
@@ -161,6 +179,13 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
     + [Demystifying Regular Expressions in R](https://blog.rsquaredacademy.com/regular-expression-in-r/)
     + [A Comprehensive Introduction to Working with Databases using R](https://blog.rsquaredacademy.com/working-with-databases-using-r/)
 - [EarthLab](https://www.earthdatascience.org/) - Earth Data Science contains open, tutorials and course materials covering topics including data integration, GIS and data intensive science.
+- [Free data science resources](https://github.com/alastairrushworth/free-data-science) - a github repo with resources and learning materials across a broad range of popular data science topics
+- **data.table**
+    - [Listen Data](https://www.listendata.com/2016/10/r-data-table.html) - {data.table} Tutorial (with 50 Examples)
+    - [machine learning plus](https://www.machinelearningplus.com/tag/data-table/) - Complete beginners guide to {data.table} in R
+    - [Stata2R](https://stata2r.github.io/data.table/#introduction) - translates Stata to R with {data.table}
+    - [Exploring, Visualizing, and Modeling Big Data with R](https://okanbulut.github.io/bigdata/wrangling-big-data.html#what-is-data.table) - Data wrangling with {data.table}
+- [Data Science and Predictive Analytics (UMich HS650)](https://www.socr.umich.edu/people/dinov/DSPA_Courses.html) - The Data Science and Predictive Analytics (DSPA) course aims to build computational abilities, inferential thinking, and practical skills for tackling core data scientific challenges.
 
 ### CRAN Task Views
 
