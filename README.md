@@ -65,6 +65,7 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 - [ggdist](https://github.com/mjskay/ggdist) - Visualizations of distributions and uncertainty. A [video example](https://www.youtube.com/watch?v=nz2gHnaqX2w). [Example code](https://github.com/business-science/free_r_tips/blob/master/042_raincloud_plots/042_raincloud_plots.R)
 
 - [visdat](https://cran.r-project.org/web/packages/visdat/) - Create preliminary exploratory data visualisations of an entire dataset to identify problems or unexpected features using 'ggplot2'.
+- [trelliscopejs](https://hafen.github.io/trelliscopejs/index.html) - Trelliscope is a visualization approach based on the idea of “small multiples” or Trellis Display, where data are split into groups and a plot is made for each group, with the resulting plots arranged in a grid 
 
 #### Mapas :world_map:
 
@@ -185,6 +186,7 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
     - [Stata2R](https://stata2r.github.io/data.table/#introduction) - translates Stata to R with {data.table}
     - [Exploring, Visualizing, and Modeling Big Data with R](https://okanbulut.github.io/bigdata/wrangling-big-data.html#what-is-data.table) - Data wrangling with {data.table}
 - [Data Science and Predictive Analytics (UMich HS650)](https://www.socr.umich.edu/people/dinov/DSPA_Courses.html) - The Data Science and Predictive Analytics (DSPA) course aims to build computational abilities, inferential thinking, and practical skills for tackling core data scientific challenges.
+- [H2O.ai](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/index.html) - H2O is an open source, in-memory, distributed, fast, and scalable machine learning and predictive analytics platform that allows you to build machine learning models on big data and provides easy productionalization of those models in an enterprise environment.
 
 ### CRAN Task Views
 
