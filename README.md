@@ -65,7 +65,10 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 - [ggdist](https://github.com/mjskay/ggdist) - Visualizations of distributions and uncertainty. A [video example](https://www.youtube.com/watch?v=nz2gHnaqX2w). [Example code](https://github.com/business-science/free_r_tips/blob/master/042_raincloud_plots/042_raincloud_plots.R)
 
 - [visdat](https://cran.r-project.org/web/packages/visdat/) - Create preliminary exploratory data visualisations of an entire dataset to identify problems or unexpected features using 'ggplot2'.
-- [trelliscopejs](https://hafen.github.io/trelliscopejs/index.html) - Trelliscope is a visualization approach based on the idea of “small multiples” or Trellis Display, where data are split into groups and a plot is made for each group, with the resulting plots arranged in a grid 
+
+- [trelliscopejs](https://hafen.github.io/trelliscopejs/index.html) - Trelliscope is a visualization approach based on the idea of “small multiples” or Trellis Display, where data are split into groups and a plot is made for each group, with the resulting plots arranged in a grid.
+
+- [rbokeh](https://hafen.github.io/rbokeh/articles/rbokeh.html) - a flexible and powerful declarative framework for creating web-based plots.
 
 #### Mapas :world_map:
 
@@ -139,6 +142,14 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 - [easystats](https://github.com/easystats/easystats) - a collection of R packages, which aims to provide a unifying and consistent framework to tame, discipline, and harness the scary R statistics and their pesky models.
 
 - [tidyfst](https://cran.r-project.org/web/packages/tidyfst/index.html) - Tidy Verbs for Fast Data Manipulation. [Exemplo de uso](https://hope-data-science.github.io/tidyfst/articles/english_tutorial.html)
+
+- [ggquickeda](https://github.com/smouksassi/ggquickeda) - This R package/Shiny app is a handy interface to `ggplot2`/`table1`
+
+- [reactR](https://react-r.github.io/reactR/index.html) - provides a set of convenience functions for using `React` in R with `htmlwidget` constructor templates and local JavaScript dependencies. 
+
+- [reactable](https://glin.github.io/reactable/index.html) - Interactive data tables for R, based on the `React Table` library and made with {reactR}.
+
+-[lazyrmd](https://github.com/hafen/lazyrmd) - The {lazyrmd} R package provides an R Markdown html output format that enables plot outputs in the document to be lazily loaded.
 
 ### Cheat sheet :newspaper:
 
