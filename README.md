@@ -28,6 +28,8 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 - [inspectdf](https://alastairrushworth.github.io/inspectdf/index.html) -  a collection of utilities for columnwise summary, comparison and visualisation of data frames. 
 
+- [sjmisc](https://strengejacke.github.io/sjmisc/index.html) - Data and Variable Transformation Functions
+
 - [psych]()
 
 - [tidylog](https://github.com/elbersb/tidylog/) - The goal of {tidylog} is to provide feedback about {dplyr} and {tidyr} operations.
@@ -46,6 +48,8 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 - [gganimate](https://gganimate.com/) - {gganimate} extends the grammar of graphics as implemented by {ggplot2} to include the description of animation. It does this by providing a range of new grammar classes that can be added to the plot object in order to customise how it should change with time.
 
+- [ggiraph](https://davidgohel.github.io/ggiraph/index.html) - {ggiraph} is a tool that allows you to create dynamic {ggplot} graphs. This allows you to add tooltips, hover effects and JavaScript actions to the graphics.
+
 - [ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) - {ggstatsplot} is an extension of {ggplot2} package for creating graphics with details from statistical tests included in the information-rich plots themselves.
 
 - [ggpubr](https://github.com/kassambara/ggpubr) - The {ggpubr} package provides some easy-to-use functions for creating and customizing {ggplot2} - based publication ready plots.
@@ -60,6 +64,8 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 - [ggiraph](https://github.com/davidgohel/ggiraph) - {ggiraph} makes ‘ggplot’ graphics interactive. It is a tool that allows you to create dynamic ggplot graphs. This allows you to add tooltips, hover effects and JavaScript actions to the graphics. The package also allows the selection of graphical elements when used in shiny applications.
 
+- [echarts4r](https://echarts4r.john-coene.com/index.html) - Interactive visualisations for R via Apache ECharts
+
 - [highcharter](https://jkunst.com/highcharter/) - an **R** wrapper for [Highcharts](https://www.highcharts.com/) javascript library and its modules. Highcharts is very flexible and customizable javascript charting library and it has a great and powerful API.
 
 - [ggdist](https://github.com/mjskay/ggdist) - Visualizations of distributions and uncertainty. A [video example](https://www.youtube.com/watch?v=nz2gHnaqX2w). [Example code](https://github.com/business-science/free_r_tips/blob/master/042_raincloud_plots/042_raincloud_plots.R)
@@ -69,6 +75,8 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 - [trelliscopejs](https://hafen.github.io/trelliscopejs/index.html) - Trelliscope is a visualization approach based on the idea of “small multiples” or Trellis Display, where data are split into groups and a plot is made for each group, with the resulting plots arranged in a grid.
 
 - [rbokeh](https://hafen.github.io/rbokeh/articles/rbokeh.html) - a flexible and powerful declarative framework for creating web-based plots.
+
+- [trelliscopejs](https://hafen.github.io/trelliscopejs/index.html) - Trelliscope is a scalable, flexible, interactive approach to visualizing data.
 
 #### Mapas :world_map:
 
@@ -97,6 +105,9 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 - [ttt - Formatted tables the easy way](https://github.com/benjaminrich/ttt) - {ttt} stands for "The Table Tool" (or, if you prefer "Tables! Tables! Tables!"). It allows you to creates structured, formatted HTML tables in a flexible and convenient way ([vignette](https://benjaminrich.github.io/ttt/vignettes/ttt-intro.html)).
 - [printr](https://cran.r-project.org/web/packages/printr/vignettes/printr.html) - The {printr} package is a companion package to knitr.
 - [stargazer](https://cran.r-project.org/web/packages/stargazer/vignettes/stargazer.pdf) -  an R package that creates well-formatted regression tables, with multiple models side-by-side, as well as for summary statistics tables, data frames, vectors and matrices.
+- [reactable](https://glin.github.io/reactable/index.html) -Interactive data tables for R, based on the React Table library and made with reactR.
+- [reactablefmtr](https://kcuilla.github.io/reactablefmtr/index.html) - The {reactablefmtr} package streamlines and enhances the styling and formatting of tables built with the {reactable} R package. The {reactablefmtr} package provides many conditional formatters that are highly customizable and easy to use.
+- [modelsummary](https://vincentarelbundock.github.io/modelsummary/index.html) - {modelsummary} creates tables and plots to summarize statistical models and data in `R`.
 - [tableone](https://cran.r-project.org/web/packages/tableone/) - Create 'Table 1' to Describe Baseline Characteristics with or without Propensity Score Weights
 - [table1](https://cran.r-project.org/web/packages/table1/) - Create HTML tables of descriptive statistics, as one would expect to see as the first table (i.e. "Table 1") in a medical/epidemiological journal article.
 
