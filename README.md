@@ -10,6 +10,8 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 - [DataExplorer](http://boxuancui.github.io/DataExplorer/index.html) - automates most of data handling and visualization. [Exemplo de uso](https://cran.r-project.org/web/packages/DataExplorer/vignettes/dataexplorer-intro.html).
 
+- [SmartEDA](https://daya6489.github.io/SmartEDA/) - helps in getting the complete exploratory data analysis just by running the function instead of writing lengthy r code. [Exemplo de uso](https://cran.r-project.org/web/packages/SmartEDA/vignettes/SmartEDA.html#introduction)
+
 - [dlookr](https://github.com/choonghyunryu/dlookr) - Diagnose, explore and transform data. [Overview page.](https://choonghyunryu.github.io/dlookr/index.html)
 
 - [Hmisc](https://hbiostat.org/R/Hmisc/) - A set of functions to put together in an `rmarkdow` html document using RStudio and `knitr`. [Exemplo de uso](https://hbiostat.org/R/Hmisc/examples.html)
@@ -26,11 +28,13 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 - [funModeling](https://cran.r-project.org/web/packages/funModeling/vignettes/funModeling_quickstart.html) - 
 
-- [inspectdf](https://alastairrushworth.github.io/inspectdf/index.html) -  a collection of utilities for columnwise summary, comparison and visualisation of data frames. 
+- [inspectdf](https://alastairrushworth.github.io/inspectdf/index.html) - a collection of utilities for columnwise summary, comparison and visualisation of data frames. 
+
+- [SatAid](https://github.com/VincentAlcazer/StatAid) - a free open-source software provided as an R package allowing clinicians and researchers to perform statistical analysis through an intuitive graphical interface.
 
 - [sjmisc](https://strengejacke.github.io/sjmisc/index.html) - Data and Variable Transformation Functions
 
-- [psych]()
+- [psych](https://personality-project.org/r/psych/) - A general purpose toolbox for personality, psychometric theory and experimental psychology
 
 - [tidylog](https://github.com/elbersb/tidylog/) - The goal of {tidylog} is to provide feedback about {dplyr} and {tidyr} operations.
 
