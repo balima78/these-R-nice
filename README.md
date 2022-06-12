@@ -174,6 +174,7 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 - [Searching CRAN with packagefinder](lectures/packagefinder.pdf)
 - [ultimate cheat sheet](lectures/Data_Science_R_Workflow.pdf)
 - [RStudio Cheat sheets](https://www.rstudio.com/resources/cheatsheets/) - here a post [about it](https://rviews.rstudio.com/2021/03/10/rstudio-open-source-resorurces)
+- [Graphics Principles](https://github.com/GraphicsPrinciples/CheatSheet/blob/master/NVSCheatSheet.pdf) - here the [website](https://graphicsprinciples.github.io/)
 
 :book: Livros e tutoriais
 -------------------------
