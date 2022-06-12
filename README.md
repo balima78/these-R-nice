@@ -156,6 +156,8 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 - [easystats](https://github.com/easystats/easystats) - a collection of R packages, which aims to provide a unifying and consistent framework to tame, discipline, and harness the scary R statistics and their pesky models.
 
+- [collapse](https://github.com/SebKrantz/collapse) - a C/C++ based package for data transformation and statistical computing in R.
+
 - [tidyfst](https://cran.r-project.org/web/packages/tidyfst/index.html) - Tidy Verbs for Fast Data Manipulation. [Exemplo de uso](https://hope-data-science.github.io/tidyfst/articles/english_tutorial.html)
 
 - [ggquickeda](https://github.com/smouksassi/ggquickeda) - This R package/Shiny app is a handy interface to `ggplot2`/`table1`
