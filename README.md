@@ -125,6 +125,8 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 - [data.table](https://github.com/Rdatatable/data.table) - `data.table` provides a high-performance version of base R's `data.frame` with syntax and feature enhancements for ease of use, convenience and programming speed. Introduction to data.table [vignette](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html). [Exemplo de uso](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/)
 
+- [nplyr](https://markjrieke.github.io/nplyr/index.html) - a grammar of nested data manipulation that allows users to perform {dplyr}-like manipulations on data frames nested within a list-col of another data frame.
+
 ### Time series :hourglass:
 
 - [CRAN Task View: Time Series Analysis](https://github.com/robjhyndman/ctv-TimeSeries)
