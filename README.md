@@ -168,7 +168,7 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 - [reactable](https://glin.github.io/reactable/index.html) - Interactive data tables for R, based on the `React Table` library and made with {reactR}.
 
--[lazyrmd](https://github.com/hafen/lazyrmd) - The {lazyrmd} R package provides an R Markdown html output format that enables plot outputs in the document to be lazily loaded.
+- [lazyrmd](https://github.com/hafen/lazyrmd) - The {lazyrmd} R package provides an R Markdown html output format that enables plot outputs in the document to be lazily loaded.
 
 ### Cheat sheet :newspaper:
 
