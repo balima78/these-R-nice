@@ -4,7 +4,6 @@ Compilação de *packages* R que vou encontrando e não quero perder.
 :writing\_hand: Autor: Bruno A Lima
 ----------------------
 
-TESTE
 
 As minhas principais fontes são as *newsletters* da [Business Science University](https://university.business-science.io/), os *e-mails* de [R weekly](https://rweekly.org/), o *blog* [R-bloggers](https://www.r-bloggers.com/) e eventualmente outras cenas...
 
