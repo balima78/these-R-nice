@@ -51,8 +51,6 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 - [gganimate](https://gganimate.com/) - {gganimate} extends the grammar of graphics as implemented by {ggplot2} to include the description of animation. It does this by providing a range of new grammar classes that can be added to the plot object in order to customise how it should change with time.
 
-- [ggiraph](https://davidgohel.github.io/ggiraph/index.html) - {ggiraph} is a tool that allows you to create dynamic {ggplot} graphs. This allows you to add tooltips, hover effects and JavaScript actions to the graphics.
-
 - [ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) - {ggstatsplot} is an extension of {ggplot2} package for creating graphics with details from statistical tests included in the information-rich plots themselves.
 
 - [ggpubr](https://github.com/kassambara/ggpubr) - The {ggpubr} package provides some easy-to-use functions for creating and customizing {ggplot2} - based publication ready plots.
