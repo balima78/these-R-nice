@@ -27,8 +27,6 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 - [descriptr](https://blog.rsquaredacademy.com/introducing-descriptr/) -  a set of tools for generating descriptive/summary statistics. A more [comprehensive documentation](https://descriptr.rsquaredacademy.com/index.html) on using the package.
 
-- [funModeling](https://cran.r-project.org/web/packages/funModeling/vignettes/funModeling_quickstart.html) - 
-
 - [inspectdf](https://alastairrushworth.github.io/inspectdf/index.html) - a collection of utilities for columnwise summary, comparison and visualisation of data frames. 
 
 - [SatAid](https://github.com/VincentAlcazer/StatAid) - a free open-source software provided as an R package allowing clinicians and researchers to perform statistical analysis through an intuitive graphical interface.
@@ -188,6 +186,7 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 - [R books](https://github.com/RomanTsegelskyi/rbooks)
 - [awesome-r-learning-resources](https://github.com/iamericfletcher/awesome-r-learning-resources#readme)
 - [awesome-R](https://github.com/qinwf/awesome-R)
+- [funModeling](https://livebook.datascienceheroes.com/)
 - [Big Book of R](https://www.bigbookofr.com/)
 - **An Introduction to Statistical Learning with Applications in R (ISLR)**
   - [15 hours of expert videos](https://www.r-bloggers.com/2014/09/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/)
