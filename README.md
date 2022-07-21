@@ -73,11 +73,9 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 - [visdat](https://cran.r-project.org/web/packages/visdat/) - Create preliminary exploratory data visualisations of an entire dataset to identify problems or unexpected features using 'ggplot2'.
 
-- [trelliscopejs](https://hafen.github.io/trelliscopejs/index.html) - Trelliscope is a visualization approach based on the idea of “small multiples” or Trellis Display, where data are split into groups and a plot is made for each group, with the resulting plots arranged in a grid.
+- [trelliscopejs](https://hafen.github.io/trelliscopejs/index.html) - Trelliscope is a visualization approach based on the idea of “small multiples” or Trellis Display, where data are split into groups and a plot is made for each group, with the resulting plots arranged in a grid. A scalable, flexible, interactive approach to visualizing data.
 
 - [rbokeh](https://hafen.github.io/rbokeh/articles/rbokeh.html) - a flexible and powerful declarative framework for creating web-based plots.
-
-- [trelliscopejs](https://hafen.github.io/trelliscopejs/index.html) - Trelliscope is a scalable, flexible, interactive approach to visualizing data.
 
 #### Mapas :world_map:
 
