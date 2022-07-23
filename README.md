@@ -100,7 +100,10 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
     - [Introduction to Creating gt Tables](https://gt.rstudio.com/articles/intro-creating-gt-tables.html)
     - [Exploring the {gt} Package in R](https://towardsdatascience.com/exploring-the-gt-grammar-of-tables-package-in-r-7fff9d0b40cd)
     - [Great Looking Tables: gt](https://www.r-bloggers.com/2020/04/great-looking-tables-gt-v0-2/)
+- [gtextras](https://jthomasmock.github.io/gtExtras/) - The goal of gtExtras is to provide some additional helper functions to assist in creating beautiful tables with {gt}.
 - [gtsummary](http://www.danieldsjoberg.com/gtsummary/) - The {gtsummary} package provides an elegant and flexible way to create publication-ready analytical and summary tables using the R programming language. [vídeo](https://www.youtube.com/watch?v=fjAMsGISyXw)
+- [flextable](https://davidgohel.github.io/flextable/index.html) - This package provides a framework for easily create tables for reporting and publications.
+- [rhandsontable](https://jrowen.github.io/rhandsontable/) - a htmlwidget based on the handsontable.js library.
 - [ttt - Formatted tables the easy way](https://github.com/benjaminrich/ttt) - {ttt} stands for "The Table Tool" (or, if you prefer "Tables! Tables! Tables!"). It allows you to creates structured, formatted HTML tables in a flexible and convenient way ([vignette](https://benjaminrich.github.io/ttt/vignettes/ttt-intro.html)).
 - [printr](https://cran.r-project.org/web/packages/printr/vignettes/printr.html) - The {printr} package is a companion package to knitr.
 - [stargazer](https://cran.r-project.org/web/packages/stargazer/vignettes/stargazer.pdf) -  an R package that creates well-formatted regression tables, with multiple models side-by-side, as well as for summary statistics tables, data frames, vectors and matrices.
