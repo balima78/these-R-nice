@@ -80,6 +80,9 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 #### Mapas :world_map:
 
 - [ggmap](https://github.com/dkahle/ggmap) - {ggmap} is an R package that makes it easy to retrieve raster map tiles from popular online mapping services like Google Maps and Stamen Maps and plot them using the {ggplot2} framework.
+
+- [ggcharts](https://github.com/thomas-neitmann/ggcharts) - {ggcharts} provides a high-level {ggplot2} interface for creating common charts. Its aim is both simple and ambitious: to get you from your data visualization idea to an actual plot faster.
+
 - [sf](https://github.com/r-spatial/sf) - A package that provides simple features access for R.
 
 #### Redes :goal_net:
