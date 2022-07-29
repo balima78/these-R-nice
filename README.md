@@ -10,31 +10,18 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 ### Profiling (EDA) :eyes:
 
 - [DataExplorer](http://boxuancui.github.io/DataExplorer/index.html) - automates most of data handling and visualization. [Exemplo de uso](https://cran.r-project.org/web/packages/DataExplorer/vignettes/dataexplorer-intro.html).
-
 - [SmartEDA](https://daya6489.github.io/SmartEDA/) - helps in getting the complete exploratory data analysis just by running the function instead of writing lengthy r code. [Exemplo de uso](https://cran.r-project.org/web/packages/SmartEDA/vignettes/SmartEDA.html#introduction)
-
 - [dlookr](https://github.com/choonghyunryu/dlookr) - Diagnose, explore and transform data. [Overview page.](https://choonghyunryu.github.io/dlookr/index.html)
-
 - [Hmisc](https://hbiostat.org/R/Hmisc/) - A set of functions to put together in an `rmarkdow` html document using RStudio and `knitr`. [Exemplo de uso](https://hbiostat.org/R/Hmisc/examples.html)
-
 - [naniar](https://github.com/njtierney/naniar) - {naniar} provides principled, tidy ways to summarise, visualise, and manipulate missing data with minimal deviations from the workflows in ggplot2 and tidy data.
-
 - [janitor](https://github.com/sfirke/janitor) - {janitor} has simple functions for examining and cleaning dirty data.[Exemplo de uso](https://garthtarr.github.io/meatR/janitor.html)
-
 - [skimr](https://github.com/ropensci/skimr/) - provides a frictionless approach to summary statistics the user can skim quickly to understand their data. It comes with a set of default summary functions for a wide variety of data types. [Skim statistics in the console](https://docs.ropensci.org/skimr/articles/Supporting_additional_objects.html).
-
 - [summarytools](https://cran.r-project.org/web/packages/summarytools/vignettes/Introduction.html) - provides a coherent set of functions centered on data exploration and simple reporting.
-
 - [descriptr](https://blog.rsquaredacademy.com/introducing-descriptr/) -  a set of tools for generating descriptive/summary statistics. A more [comprehensive documentation](https://descriptr.rsquaredacademy.com/index.html) on using the package.
-
 - [inspectdf](https://alastairrushworth.github.io/inspectdf/index.html) - a collection of utilities for columnwise summary, comparison and visualisation of data frames. 
-
 - [SatAid](https://github.com/VincentAlcazer/StatAid) - a free open-source software provided as an R package allowing clinicians and researchers to perform statistical analysis through an intuitive graphical interface.
-
 - [sjmisc](https://strengejacke.github.io/sjmisc/index.html) - Data and Variable Transformation Functions
-
 - [psych](https://personality-project.org/r/psych/) - A general purpose toolbox for personality, psychometric theory and experimental psychology
-
 - [tidylog](https://github.com/elbersb/tidylog/) - The goal of {tidylog} is to provide feedback about {dplyr} and {tidyr} operations.
 
 ### Bases de dados :bank:
@@ -44,45 +31,28 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 ### Visualização :bar_chart:
 
 - [ggplot2 extensions](https://exts.ggplot2.tidyverse.org/gallery/)
-
 - [ggformula](https://github.com/ProjectMOSAIC/ggformula) - This package captures and extends the excellent simplicity of the {lattice}-graphics formula interface, while providing the intuitive “add this component” capabilities of {ggplot2}. [Exemplos de uso](http://www.mosaic-web.org/ggformula/).
-
 - [gghighlight](https://github.com/yutannihilation/gghighlight/) - Highlight geoms in {ggplot2}. [Introduction to](https://yutannihilation.github.io/gghighlight/articles/gghighlight.html) {gghighlight}.
 
 - [gganimate](https://gganimate.com/) - {gganimate} extends the grammar of graphics as implemented by {ggplot2} to include the description of animation. It does this by providing a range of new grammar classes that can be added to the plot object in order to customise how it should change with time.
-
 - [ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) - {ggstatsplot} is an extension of {ggplot2} package for creating graphics with details from statistical tests included in the information-rich plots themselves.
-
 - [ggpubr](https://github.com/kassambara/ggpubr) - The {ggpubr} package provides some easy-to-use functions for creating and customizing {ggplot2} - based publication ready plots.
-
 - [ggbiplot](https://github.com/vqv/ggbiplot) - An implementation of the biplot using {ggplot2}. The package provides two functions: `ggscreeplot()` and `ggbiplot()`. {ggbiplot} aims to be a drop-in replacement for the built-in R function `biplot.princomp()` with extended functionality for labeling groups, drawing a correlation circle, and adding Normal probability ellipsoids.
-
 - [ggside](https://github.com/jtlandis/ggside) - this package expands on the ggplot2 and  allows the user to add graphical information about main panel’s axis with a boxplot or a density distribution.
-
 - [patchwork](https://patchwork.data-imaginist.com/) - he goal of {patchwork} is to make it ridiculously simple to combine separate ggplots into the same graphic.
-
 - [gridExtra](https://www.r-bloggers.com/2011/04/extra-extra-get-your-gridextra/) - Arranging multiple plots on a page.[Basic examples](https://cran.r-project.org/web/packages/egg/vignettes/Ecosystem.html) and [more](https://www.r-graph-gallery.com/261-multiple-graphs-on-same-page.html).
-
 - [ggiraph](https://github.com/davidgohel/ggiraph) - {ggiraph} makes ‘ggplot’ graphics interactive. It is a tool that allows you to create dynamic ggplot graphs. This allows you to add tooltips, hover effects and JavaScript actions to the graphics. The package also allows the selection of graphical elements when used in shiny applications.
-
 - [echarts4r](https://echarts4r.john-coene.com/index.html) - Interactive visualisations for R via Apache ECharts
-
 - [highcharter](https://jkunst.com/highcharter/) - an **R** wrapper for [Highcharts](https://www.highcharts.com/) javascript library and its modules. Highcharts is very flexible and customizable javascript charting library and it has a great and powerful API.
-
 - [ggdist](https://github.com/mjskay/ggdist) - Visualizations of distributions and uncertainty. A [video example](https://www.youtube.com/watch?v=nz2gHnaqX2w). [Example code](https://github.com/business-science/free_r_tips/blob/master/042_raincloud_plots/042_raincloud_plots.R)
-
 - [visdat](https://cran.r-project.org/web/packages/visdat/) - Create preliminary exploratory data visualisations of an entire dataset to identify problems or unexpected features using 'ggplot2'.
-
 - [trelliscopejs](https://hafen.github.io/trelliscopejs/index.html) - Trelliscope is a visualization approach based on the idea of “small multiples” or Trellis Display, where data are split into groups and a plot is made for each group, with the resulting plots arranged in a grid. A scalable, flexible, interactive approach to visualizing data.
-
 - [rbokeh](https://hafen.github.io/rbokeh/articles/rbokeh.html) - a flexible and powerful declarative framework for creating web-based plots.
 
 #### Mapas :world_map:
 
 - [ggmap](https://github.com/dkahle/ggmap) - {ggmap} is an R package that makes it easy to retrieve raster map tiles from popular online mapping services like Google Maps and Stamen Maps and plot them using the {ggplot2} framework.
-
 - [ggcharts](https://github.com/thomas-neitmann/ggcharts) - {ggcharts} provides a high-level {ggplot2} interface for creating common charts. Its aim is both simple and ambitious: to get you from your data visualization idea to an actual plot faster.
-
 - [sf](https://github.com/r-spatial/sf) - A package that provides simple features access for R.
 
 #### Redes :goal_net:
@@ -121,25 +91,17 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 ### Manipulação de dados :hammer_and_wrench:
 
 - [broom](https://github.com/tidymodels/broom) - {broom} summarizes key information about models in tidy `tibble()`s.
-
 - [dtplyr](https://dtplyr.tidyverse.org/) -  The goal of {dtplyr} is to allow you to write {dplyr} code that is automatically translated to the equivalent, but usually much faster, {data.table} code. [A simple usage](https://www.tidyverse.org/blog/2019/11/dtplyr-1-0-0/).
-
 - [data.table](https://github.com/Rdatatable/data.table) - `data.table` provides a high-performance version of base R's `data.frame` with syntax and feature enhancements for ease of use, convenience and programming speed. Introduction to data.table [vignette](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html). [Exemplo de uso](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/)
-
 - [nplyr](https://markjrieke.github.io/nplyr/index.html) - a grammar of nested data manipulation that allows users to perform {dplyr}-like manipulations on data frames nested within a list-col of another data frame.
 
 ### Time series :hourglass:
 
 - [CRAN Task View: Time Series Analysis](https://github.com/robjhyndman/ctv-TimeSeries)
-
 - [fable](http://fable.tidyverts.org/) - The R package {fable} provides a collection of commonly used univariate and multivariate time series forecasting models including exponential smoothing via state space models and automatic ARIMA modelling. 
-
 - [tsibble](https://tsibble.tidyverts.org/) - The {tsibble} package provides a data infrastructure for tidy temporal data with wrangling tools.
-
 - [imputeTS](https://github.com/SteffenMoritz/imputeTS) - The imputeTS package specializes on (univariate) time series imputation. [package website](https://steffenmoritz.github.io/imputeTS/index.html)
-
 - [anytime](https://cran.r-project.org/web/packages/anytime/index.html) - Anything to POSIXct or Date Converter
-
 - [autostsm](https://cran.r-project.org/web/packages/autostsm/) - Automatic model selection for structural time series decomposition into trend, cycle, and seasonal components, plus optionality for structural interpolation, using the Kalman filter.
 
 ### Shiny :iphone:
@@ -149,28 +111,18 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 - [shinydashboard](https://cran.r-project.org/web/packages/shinydashboard/index.html) - Create dashboards with 'Shiny'. [Exemplos de uso](https://rstudio.github.io/shinydashboard/)
 - [shinydashboardPlus](https://cran.r-project.org/web/packages/shinydashboardPlus/index.html) - Extend {shinydashboard} with 'AdminLTE2' components. [Exemplo de uso](https://rinterface.com/shiny/shinydashboardPlus/)
 - [shinyuieditor](https://rstudio.github.io/shinyuieditor/index.html) - A visual tool for building the UI portion of a Shiny application that generates clean and human-readable code.
--[designer](https://ashbaldry.github.io/designer/) - intended to make the initial generation of a UI wireframe of a shiny application as quick and simple as possible.
+- [designer](https://ashbaldry.github.io/designer/) - intended to make the initial generation of a UI wireframe of a shiny application as quick and simple as possible.
 
 ### a testar :boom:
 
 - [r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes#blogposts-and-other-resources) - Comprehensive list of color palettes in r
-
 - [sparklyr](https://github.com/sparklyr/sparklyr) - R interface for Apache Spark
-
 - [disk.frame](https://github.com/xiaodaigh/disk.frame/) - performs a similar role to distributed systems for medium data which are datasets that are too large for RAM but not quite large enough to qualify as big data. {disk.frame} [is epic](https://www.brodrigues.co/blog/2019-09-03-disk_frame/)
-
 - [easystats](https://github.com/easystats/easystats) - a collection of R packages, which aims to provide a unifying and consistent framework to tame, discipline, and harness the scary R statistics and their pesky models.
-
 - [collapse](https://github.com/SebKrantz/collapse) - a C/C++ based package for data transformation and statistical computing in R.
-
 - [tidyfst](https://cran.r-project.org/web/packages/tidyfst/index.html) - Tidy Verbs for Fast Data Manipulation. [Exemplo de uso](https://hope-data-science.github.io/tidyfst/articles/english_tutorial.html)
-
 - [ggquickeda](https://github.com/smouksassi/ggquickeda) - This R package/Shiny app is a handy interface to `ggplot2`/`table1`
-
 - [reactR](https://react-r.github.io/reactR/index.html) - provides a set of convenience functions for using `React` in R with `htmlwidget` constructor templates and local JavaScript dependencies. 
-
-- [reactable](https://glin.github.io/reactable/index.html) - Interactive data tables for R, based on the `React Table` library and made with {reactR}.
-
 - [lazyrmd](https://github.com/hafen/lazyrmd) - The {lazyrmd} R package provides an R Markdown html output format that enables plot outputs in the document to be lazily loaded.
 
 ### Cheat sheet :newspaper:
