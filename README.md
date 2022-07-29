@@ -148,6 +148,8 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 - [Mastering Shiny](https://mastering-shiny.org/)
 - [shinydashboard](https://cran.r-project.org/web/packages/shinydashboard/index.html) - Create dashboards with 'Shiny'. [Exemplos de uso](https://rstudio.github.io/shinydashboard/)
 - [shinydashboardPlus](https://cran.r-project.org/web/packages/shinydashboardPlus/index.html) - Extend {shinydashboard} with 'AdminLTE2' components. [Exemplo de uso](https://rinterface.com/shiny/shinydashboardPlus/)
+- [shinyuieditor](https://rstudio.github.io/shinyuieditor/index.html) - A visual tool for building the UI portion of a Shiny application that generates clean and human-readable code.
+-[designer](https://ashbaldry.github.io/designer/) - intended to make the initial generation of a UI wireframe of a shiny application as quick and simple as possible.
 
 ### a testar :boom:
 
