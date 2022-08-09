@@ -33,7 +33,6 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 - [ggplot2 extensions](https://exts.ggplot2.tidyverse.org/gallery/)
 - [ggformula](https://github.com/ProjectMOSAIC/ggformula) - This package captures and extends the excellent simplicity of the {lattice}-graphics formula interface, while providing the intuitive “add this component” capabilities of {ggplot2}. [Exemplos de uso](http://www.mosaic-web.org/ggformula/).
 - [gghighlight](https://github.com/yutannihilation/gghighlight/) - Highlight geoms in {ggplot2}. [Introduction to](https://yutannihilation.github.io/gghighlight/articles/gghighlight.html) {gghighlight}.
-
 - [gganimate](https://gganimate.com/) - {gganimate} extends the grammar of graphics as implemented by {ggplot2} to include the description of animation. It does this by providing a range of new grammar classes that can be added to the plot object in order to customise how it should change with time.
 - [ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) - {ggstatsplot} is an extension of {ggplot2} package for creating graphics with details from statistical tests included in the information-rich plots themselves.
 - [ggpubr](https://github.com/kassambara/ggpubr) - The {ggpubr} package provides some easy-to-use functions for creating and customizing {ggplot2} - based publication ready plots.
@@ -103,6 +102,7 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 - [imputeTS](https://github.com/SteffenMoritz/imputeTS) - The imputeTS package specializes on (univariate) time series imputation. [package website](https://steffenmoritz.github.io/imputeTS/index.html)
 - [anytime](https://cran.r-project.org/web/packages/anytime/index.html) - Anything to POSIXct or Date Converter
 - [autostsm](https://cran.r-project.org/web/packages/autostsm/) - Automatic model selection for structural time series decomposition into trend, cycle, and seasonal components, plus optionality for structural interpolation, using the Kalman filter.
+- [composits](https://sevvandi.github.io/composits/) - The goal of composits is to find outliers in compositional, multivariate and univariate time series. It is an outlier ensemble method that uses the packages `forecast`, `tsoutliers`, `anomalize` and `otsad`.
 
 ### Shiny :iphone:
 
@@ -112,6 +112,9 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 - [shinydashboardPlus](https://cran.r-project.org/web/packages/shinydashboardPlus/index.html) - Extend {shinydashboard} with 'AdminLTE2' components. [Exemplo de uso](https://rinterface.com/shiny/shinydashboardPlus/)
 - [shinyuieditor](https://rstudio.github.io/shinyuieditor/index.html) - A visual tool for building the UI portion of a Shiny application that generates clean and human-readable code.
 - [designer](https://ashbaldry.github.io/designer/) - intended to make the initial generation of a UI wireframe of a shiny application as quick and simple as possible.
+-[bslib](https://rstudio.github.io/bslib/) - designed for use with any Shiny or R Markdown project that uses Bootstrap
+-[shinytest](https://rstudio.github.io/shinytest/) - provides a simulation of a Shiny app that you can control in order to automate testing.
+-[shinyloadtest](https://rstudio.github.io/shinyloadtest/) - allow to load test deployed Shiny apps. Load testing helps developers and administrators estimate how many users their application can support. 
 
 ### a testar :boom:
 
@@ -124,6 +127,8 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 - [ggquickeda](https://github.com/smouksassi/ggquickeda) - This R package/Shiny app is a handy interface to `ggplot2`/`table1`
 - [reactR](https://react-r.github.io/reactR/index.html) - provides a set of convenience functions for using `React` in R with `htmlwidget` constructor templates and local JavaScript dependencies. 
 - [lazyrmd](https://github.com/hafen/lazyrmd) - The {lazyrmd} R package provides an R Markdown html output format that enables plot outputs in the document to be lazily loaded.
+- [dash](https://github.com/plotly/dashR) - Dash for R. Create beautiful, analytic web applications in R. [Tutorial](https://dash.plotly.com/r)
+- [profvis](https://rstudio.github.io/profvis/index.html) - a tool for helping you to understand how R spends its time.
 
 ### Cheat sheet :newspaper:
 
