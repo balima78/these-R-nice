@@ -11,6 +11,7 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 - [DataExplorer](http://boxuancui.github.io/DataExplorer/index.html) - automates most of data handling and visualization. [Exemplo de uso](https://cran.r-project.org/web/packages/DataExplorer/vignettes/dataexplorer-intro.html).
 - [SmartEDA](https://daya6489.github.io/SmartEDA/) - helps in getting the complete exploratory data analysis just by running the function instead of writing lengthy r code. [Exemplo de uso](https://cran.r-project.org/web/packages/SmartEDA/vignettes/SmartEDA.html#introduction)
+- [dataReporter](https://github.com/ekstroem/dataReporter) - an R package for documenting and creating reports on data cleanliness. [Exemplo de uso](https://sandsynligvis.dk/2018/03/03/generating-codebooks-in-r/)
 - [dlookr](https://github.com/choonghyunryu/dlookr) - Diagnose, explore and transform data. [Overview page.](https://choonghyunryu.github.io/dlookr/index.html)
 - [Hmisc](https://hbiostat.org/R/Hmisc/) - A set of functions to put together in an `rmarkdow` html document using RStudio and `knitr`. [Exemplo de uso](https://hbiostat.org/R/Hmisc/examples.html)
 - [naniar](https://github.com/njtierney/naniar) - {naniar} provides principled, tidy ways to summarise, visualise, and manipulate missing data with minimal deviations from the workflows in ggplot2 and tidy data.
