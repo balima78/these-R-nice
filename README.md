@@ -14,6 +14,7 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 - [dataReporter](https://github.com/ekstroem/dataReporter) - an R package for documenting and creating reports on data cleanliness. [Exemplo de uso](https://sandsynligvis.dk/2018/03/03/generating-codebooks-in-r/)
 - [dlookr](https://github.com/choonghyunryu/dlookr) - Diagnose, explore and transform data. [Overview page.](https://choonghyunryu.github.io/dlookr/index.html)
 - [Hmisc](https://hbiostat.org/R/Hmisc/) - A set of functions to put together in an `rmarkdow` html document using RStudio and `knitr`. [Exemplo de uso](https://hbiostat.org/R/Hmisc/examples.html)
+- [overviewR](https://github.com/cosimameyer/overviewR) - make it easy to get an overview of a data set by displaying relevant sample information.
 - [naniar](https://github.com/njtierney/naniar) - {naniar} provides principled, tidy ways to summarise, visualise, and manipulate missing data with minimal deviations from the workflows in ggplot2 and tidy data.
 - [janitor](https://github.com/sfirke/janitor) - {janitor} has simple functions for examining and cleaning dirty data.[Exemplo de uso](https://garthtarr.github.io/meatR/janitor.html)
 - [skimr](https://github.com/ropensci/skimr/) - provides a frictionless approach to summary statistics the user can skim quickly to understand their data. It comes with a set of default summary functions for a wide variety of data types. [Skim statistics in the console](https://docs.ropensci.org/skimr/articles/Supporting_additional_objects.html).
