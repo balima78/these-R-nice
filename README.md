@@ -91,10 +91,11 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 
 ### Manipulação de dados :hammer_and_wrench:
 
-- [broom](https://github.com/tidymodels/broom) - {broom} summarizes key information about models in tidy `tibble()`s.
-- [dtplyr](https://dtplyr.tidyverse.org/) -  The goal of {dtplyr} is to allow you to write {dplyr} code that is automatically translated to the equivalent, but usually much faster, {data.table} code. [A simple usage](https://www.tidyverse.org/blog/2019/11/dtplyr-1-0-0/).
 - [data.table](https://github.com/Rdatatable/data.table) - `data.table` provides a high-performance version of base R's `data.frame` with syntax and feature enhancements for ease of use, convenience and programming speed. Introduction to data.table [vignette](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html). [Exemplo de uso](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/)
+- [tidytable](https://markfairbanks.github.io/tidytable/index.html) - a `tidyverse`-like syntax with fast functions built using two high performance packages: {data.table} and the tidyverse’s {vctrs}
+- [dtplyr](https://dtplyr.tidyverse.org/) -  The goal of {dtplyr} is to allow you to write {dplyr} code that is automatically translated to the equivalent, but usually much faster, {data.table} code. [A simple usage](https://www.tidyverse.org/blog/2019/11/dtplyr-1-0-0/).
 - [nplyr](https://markjrieke.github.io/nplyr/index.html) - a grammar of nested data manipulation that allows users to perform {dplyr}-like manipulations on data frames nested within a list-col of another data frame.
+- [broom](https://github.com/tidymodels/broom) - {broom} summarizes key information about models in tidy `tibble()`s.
 
 ### Time series :hourglass:
 
