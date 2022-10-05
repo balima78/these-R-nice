@@ -98,7 +98,7 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 - [nplyr](https://markjrieke.github.io/nplyr/index.html) - a grammar of nested data manipulation that allows users to perform {dplyr}-like manipulations on data frames nested within a list-col of another data frame.
 - [broom](https://github.com/tidymodels/broom) - {broom} summarizes key information about models in tidy `tibble()`s.
 
-### Time series :hourglass:
+### Time series :clock1:
 
 - [CRAN Task View: Time Series Analysis](https://github.com/robjhyndman/ctv-TimeSeries)
 - [fable](http://fable.tidyverts.org/) - The R package {fable} provides a collection of commonly used univariate and multivariate time series forecasting models including exponential smoothing via state space models and automatic ARIMA modelling. 
@@ -107,6 +107,11 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 - [anytime](https://cran.r-project.org/web/packages/anytime/index.html) - Anything to POSIXct or Date Converter
 - [autostsm](https://cran.r-project.org/web/packages/autostsm/) - Automatic model selection for structural time series decomposition into trend, cycle, and seasonal components, plus optionality for structural interpolation, using the Kalman filter.
 - [composits](https://sevvandi.github.io/composits/) - The goal of composits is to find outliers in compositional, multivariate and univariate time series. It is an outlier ensemble method that uses the packages `forecast`, `tsoutliers`, `anomalize` and `otsad`.
+
+Survival :hourglass:
+- [survival](https://cran.r-project.org/web/packages/survival/index.html) - Contains the core survival analysis routines, including definition of Surv objects, Kaplan-Meier and Aalen-Johansen (multi-state) curves, Cox models, and parametric accelerated failure time models.
+- [survivalMPLdc](https://cran.r-project.org/web/packages/survivalMPLdc/) - Fitting Cox proportional hazard model under dependent right censoring using copula and maximum penalised likelihood methods.
+- [censored](https://censored.tidymodels.org/index.html) - a [parsnip](https://parsnip.tidymodels.org/) extension package which provides engines for various models for censored regression and survival analysis.
 
 ### Shiny :iphone:
 
@@ -182,6 +187,7 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
     - [Stata2R](https://stata2r.github.io/data.table/#introduction) - translates Stata to R with {data.table}
     - [Exploring, Visualizing, and Modeling Big Data with R](https://okanbulut.github.io/bigdata/wrangling-big-data.html#what-is-data.table) - Data wrangling with {data.table}
 - [Data Science and Predictive Analytics (UMich HS650)](https://www.socr.umich.edu/people/dinov/DSPA_Courses.html) - The Data Science and Predictive Analytics (DSPA) course aims to build computational abilities, inferential thinking, and practical skills for tackling core data scientific challenges.
+- [The Shiny AWS Book](https://business-science.github.io/shiny-production-with-aws-book/) - A proven process for deploying applications in the Cloud with Shiny and AWS.
 - [H2O.ai](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/index.html) - H2O is an open source, in-memory, distributed, fast, and scalable machine learning and predictive analytics platform that allows you to build machine learning models on big data and provides easy productionalization of those models in an enterprise environment.
 
 ### CRAN Task Views
