@@ -93,7 +93,7 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 ### Manipulação de dados :hammer_and_wrench:
 
 - [data.table](https://github.com/Rdatatable/data.table) - `data.table` provides a high-performance version of base R's `data.frame` with syntax and feature enhancements for ease of use, convenience and programming speed. Introduction to data.table [vignette](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html). [Exemplo de uso](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/)
-- [tidytable](https://markfairbanks.github.io/tidytable/index.html) - a `tidyverse`-like syntax with fast functions built using two high performance packages: {data.table} and the tidyverse’s {vctrs}
+- [tidytable](https://markfairbanks.github.io/tidytable/index.html) - a `tidyverse`-like syntax with fast functions built using two high performance packages: {data.table} and the tidyverse’s {vctrs}. Data frame manipulation library for users who need `data.table` speed but prefer `tidyverse`-like syntax.
 - [dtplyr](https://dtplyr.tidyverse.org/) -  The goal of {dtplyr} is to allow you to write {dplyr} code that is automatically translated to the equivalent, but usually much faster, {data.table} code. [A simple usage](https://www.tidyverse.org/blog/2019/11/dtplyr-1-0-0/).
 - [nplyr](https://markjrieke.github.io/nplyr/index.html) - a grammar of nested data manipulation that allows users to perform {dplyr}-like manipulations on data frames nested within a list-col of another data frame.
 - [broom](https://github.com/tidymodels/broom) - {broom} summarizes key information about models in tidy `tibble()`s.
@@ -107,11 +107,17 @@ As minhas principais fontes são as *newsletters* da [Business Science Universit
 - [anytime](https://cran.r-project.org/web/packages/anytime/index.html) - Anything to POSIXct or Date Converter
 - [autostsm](https://cran.r-project.org/web/packages/autostsm/) - Automatic model selection for structural time series decomposition into trend, cycle, and seasonal components, plus optionality for structural interpolation, using the Kalman filter.
 - [composits](https://sevvandi.github.io/composits/) - The goal of composits is to find outliers in compositional, multivariate and univariate time series. It is an outlier ensemble method that uses the packages `forecast`, `tsoutliers`, `anomalize` and `otsad`.
+- [seasonal](https://github.com/christophsax/seasonal) - an easy-to-use and full-featured R-interface to X-13ARIMA-SEATS, the newest seasonal adjustment software developed by the United States Census Bureau.
 
 Survival :hourglass:
 - [survival](https://cran.r-project.org/web/packages/survival/index.html) - Contains the core survival analysis routines, including definition of Surv objects, Kaplan-Meier and Aalen-Johansen (multi-state) curves, Cox models, and parametric accelerated failure time models.
 - [survivalMPLdc](https://cran.r-project.org/web/packages/survivalMPLdc/) - Fitting Cox proportional hazard model under dependent right censoring using copula and maximum penalised likelihood methods.
 - [censored](https://censored.tidymodels.org/index.html) - a [parsnip](https://parsnip.tidymodels.org/) extension package which provides engines for various models for censored regression and survival analysis.
+- [survminer](https://rpkgs.datanovia.com/survminer/index.html) - a package that provides functions for facilitating survival analysis and visualization. 
+- [cmprsk](https://cran.r-project.org/web/packages/cmprsk/index.html) - Subdistribution Analysis of Competing Risks. [Exemplo de uso](http://rstudio-pubs-static.s3.amazonaws.com/12763_bd046f2a52e444599992161c91dc2904.htm); [mais outro](https://rpubs.com/corey_sparks/71034)
+- [tidycmprsk](https://mskcc-epi-bio.github.io/tidycmprsk/) - provides an intuitive interface for working with the competing risk endpoints.
+- [ggsurvfit](https://www.danieldsjoberg.com/ggsurvfit/) - eases the creation of time-to-event (aka survival) summary figures with `ggplot2`.
+- [survivalROC](https://cran.r-project.org/web/packages/survivalROC/) - Time-Dependent ROC Curve Estimation from Censored Survival Data. [Exemplo de uso](https://datascienceplus.com/time-dependent-roc-for-survival-prediction-models-in-r/)
 
 ### Shiny :iphone:
 
@@ -138,6 +144,7 @@ Survival :hourglass:
 - [lazyrmd](https://github.com/hafen/lazyrmd) - The {lazyrmd} R package provides an R Markdown html output format that enables plot outputs in the document to be lazily loaded.
 - [dash](https://github.com/plotly/dashR) - Dash for R. Create beautiful, analytic web applications in R. [Tutorial](https://dash.plotly.com/r)
 - [profvis](https://rstudio.github.io/profvis/index.html) - a tool for helping you to understand how R spends its time.
+- [WebR](https://docs.r-wasm.org/webr/latest/) - makes it possible to run R code in the browser without the need for an R server to execute the code
 
 ### Cheat sheet :newspaper:
 
@@ -153,6 +160,7 @@ Survival :hourglass:
 -------------------------
 - [Free data science resources](https://github.com/alastairrushworth/free-data-science) - The goal of this page is to gather resources and learning materials across a broad range of popular data science topics and arrange them thematically. 
 - [The targets R Package User Manual](https://books.ropensci.org/targets/)
+- [Reproducible Analytical Pipelines](https://rap4mads.eu/) - The basic idea of a reproducible analytical pipeline (RAP) is to have code that always produces the same result when run, whatever this result might be. 
 - [R books](https://github.com/RomanTsegelskyi/rbooks)
 - [awesome-r-learning-resources](https://github.com/iamericfletcher/awesome-r-learning-resources#readme)
 - [awesome-R](https://github.com/qinwf/awesome-R)
@@ -187,6 +195,7 @@ Survival :hourglass:
     - [Stata2R](https://stata2r.github.io/data.table/#introduction) - translates Stata to R with {data.table}
     - [Exploring, Visualizing, and Modeling Big Data with R](https://okanbulut.github.io/bigdata/wrangling-big-data.html#what-is-data.table) - Data wrangling with {data.table}
 - [Data Science and Predictive Analytics (UMich HS650)](https://www.socr.umich.edu/people/dinov/DSPA_Courses.html) - The Data Science and Predictive Analytics (DSPA) course aims to build computational abilities, inferential thinking, and practical skills for tackling core data scientific challenges.
+- [Survival Analysis in R](https://www.emilyzabor.com/tutorials/survival_analysis_in_r_tutorial.html) - an introduction to survival analysis, and to conducting a survival analysis in R.
 - [The Shiny AWS Book](https://business-science.github.io/shiny-production-with-aws-book/) - A proven process for deploying applications in the Cloud with Shiny and AWS.
 - [H2O.ai](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/index.html) - H2O is an open source, in-memory, distributed, fast, and scalable machine learning and predictive analytics platform that allows you to build machine learning models on big data and provides easy productionalization of those models in an enterprise environment.
 
